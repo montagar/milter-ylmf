@@ -1,0 +1,9 @@
+Makefile
+config.h
+config.log
+config.status
+src/.deps/
+src/Makefile
+src/milter-ylmf
+src/milter-ylmf.o
+stamp-h1
